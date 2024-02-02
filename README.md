@@ -12,6 +12,8 @@
 
 - 👨‍💻 All of my projects are available at [www.deekshith.live](https://deekshith.live/)
 
+- 👨‍💻 My blog website [https://www.solutionsfortech.in/](https://www.solutionsfortech.in/)
+
 - 📫 How to reach me **deekshithhr3729@gmail.com**
 
 - ⚡ Fun fact **I think im funny**
