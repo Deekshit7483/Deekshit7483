@@ -1,4 +1,4 @@
-<img align="center" height="300" width="pixels" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2000_600px.gif">
+<img align="center" height="300" width="fit" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/w1200-h630-p-k-no-nu/2000_600px.gif">
 <h1 align="center">Hi 👋, I'm Deekshith H R</h1>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif">
