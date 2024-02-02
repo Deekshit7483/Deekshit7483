@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Aws,flutter,etc**
 
-- 👨‍💻 All of my projects are available at [www.deekshith.live](www.deekshith.live)
+- 👨‍💻 All of my projects are available at [www.deekshith.live](https://deekshith.live/)
 
 - 📫 How to reach me **deekshithhr3729@gmail.com**
 
