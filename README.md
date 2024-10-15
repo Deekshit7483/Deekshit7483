@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Aws,flutter,etc**
 
-- 👨‍💻 All of my projects are available at [www.deekshith.live](https://deekshith.live/)
+- 👨‍💻 All of my projects are available at [profile.solutionsfortech.in](https://profile.solutionsfortech.in/)
 
 - 👨‍💻 My blog website [https://www.solutionsfortech.in/](https://www.solutionsfortech.in/)
 
-- 📫 How to reach me **deekshithhr3729@gmail.com**
+- 📫 How to reach me **deekshi@solutionsfortech.in**
 
-- ⚡ Fun fact **I think im funny**
+- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
