@@ -14,7 +14,7 @@
 
 - 👨‍💻 My blog website [https://www.solutionsfortech.in/](https://www.solutionsfortech.in/)
 
-- 📫 How to reach me **deekshi@solutionsfortech.in**
+- 📫 How to reach me **deekshithhr3729@gmail.com**
 
 - ⚡ Fun fact **I think I'm funny**
 
